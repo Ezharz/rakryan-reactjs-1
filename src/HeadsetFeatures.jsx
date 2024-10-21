@@ -48,7 +48,7 @@ function HeadsetCardGrid() {
   const products = [
     {
       productName: "ProSound X1 Wireless Headset",
-      imageUrl: "public/id-11134601-7r98x-lvwwj76sekn1e5.png",
+      imageUrl: "id-11134601-7r98x-lvwwj76sekn1e5.png",
       price: 149.99,
       features: [
         { icon: <Headphones className="w-5 h-5" />, text: "Hi-Fi Sound" },
@@ -59,7 +59,7 @@ function HeadsetCardGrid() {
     },
     {
       productName: "AudioMaster Pro",
-      imageUrl: "public/125690499106139a134430a365c19001.png",
+      imageUrl: "125690499106139a134430a365c19001.png",
       price: 199.99,
       features: [
         { icon: <Headphones className="w-5 h-5" />, text: "Surround Sound" },
@@ -70,7 +70,7 @@ function HeadsetCardGrid() {
     },
     {
       productName: "ClearTone Z9",
-      imageUrl: "public/Mockup-Headset-Bluetooth-JETE-11.jpg",
+      imageUrl: "Mockup-Headset-Bluetooth-JETE-11.jpg",
       price: 129.99,
       features: [
         { icon: <Headphones className="w-5 h-5" />, text: "Deep Bass" },

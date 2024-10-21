@@ -18,7 +18,7 @@ function HeroBanner() {
             </div>
             <div className="relative md:w-5/12">
               <img 
-                src="public/kiran-ck-cDrIiiptFqE-unsplash.jpg" 
+                src="kiran-ck-cDrIiiptFqE-unsplash.jpg" 
                 alt="Premium Headset" 
                 className="w-full shadow-lg"
               />
